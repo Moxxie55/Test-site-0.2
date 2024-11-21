@@ -1,0 +1,19 @@
+
+body {
+	background: rgb(31, 31, 30);
+	margin: auto; color: blue;
+	padding: auto; color: blueviolet;
+	border: auto; background-color:rgb(49, 48, 48) ;
+}
+section {
+	display: block;
+	width: /* width == width-device*/;
+	height: 250px;
+	background: rgb(114, 40, 40);
+}
+h1 {
+	color: azure;
+	padding-top: 1in;
+	padding-left: 7in;
+	/*Change font size to a larger font*/
+}
